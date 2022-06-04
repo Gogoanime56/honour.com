@@ -1,0 +1,576 @@
+h1{
+  top: 50%;
+  left: 50%;
+  color: #000000;
+}
+body{
+  background: #FF6B23;
+}
+
+.topleft {
+  position: absolute;
+  top: 1000px;
+  left: 376px;
+  font-size: 28px;
+  color: #8500FF;
+}
+.phone{
+   position: absolute;
+  top: 1100px;
+  left: 9px;
+  font-size: 28px;
+  width: 100%;
+  height: auto;
+  opacity: 0.4;
+}
+
+.clickme {
+    background-color: #EEEEEE;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.danger {
+    background-color:#FF0040;
+    color: #FFFFFF;
+}
+
+.danger:hover {
+    background-color:#EB003B;
+    color: #42445A;
+}
+
+.cil1{
+  background-color: #EEEEEE;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    cursor:pointer;
+  position: absolute;
+  top: 609px;
+  left: 19px;
+  font-size: 18px;
+}
+.cil1 {
+    background-color:#FF0040;
+    color: #FFFFFF;
+}
+
+.cil1:hover {
+    background-color:#EB003B;
+    color: #42445A;
+}
+
+.cil2{
+  background-color: #EEEEEE;
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    cursor:pointer;
+  position: absolute;
+  top: 609px;
+  left: 109px;
+  font-size: 18px;
+}
+.cil2 {
+    background-color:#FF0040;
+    color: #FFFFFF;
+}
+
+.cil2:hover2 {
+    background-color:#EB003B;
+    color: #42445A;
+}
+
+.cil3 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 609px;
+  left: 200px;
+  font-size: 18px;
+}
+
+.cil3 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil3:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil4 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 609px;
+  left: 299px;
+  font-size: 18px;
+}
+
+.cil4 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil4:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+.cil5 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 609px;
+  left: 399px;
+  font-size: 18px;
+}
+
+.cil5 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil5:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil6 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 609px;
+  left: 499px;
+  font-size: 18px;
+}
+
+.cil6 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil6:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil7 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 609px;
+  left: 599px;
+  font-size: 18px;
+}
+
+.cil7 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil7:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil8 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 709px;
+  left: 19px;
+  font-size: 18px;
+}
+
+.cil8 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil8:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil9 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 709px;
+  left: 109px;
+  font-size: 18px;
+}
+
+.cil9 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil9:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil10 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 709px;
+  left: 209px;
+  font-size: 18px;
+}
+
+.cil10 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil10:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil11 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 709px;
+  left: 309px;
+  font-size: 18px;
+}
+
+.cil11 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil11:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil12 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 709px;
+  left: 409px;
+  font-size: 18px;
+}
+
+.cil12 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil12:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil13 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 709px;
+  left: 509px;
+  font-size: 18px;
+}
+
+.cil13 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil13:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil14 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 709px;
+  left: 609px;
+  font-size: 18px;
+}
+
+.cil14 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil14:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil15 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 809px;
+  left: 19px;
+  font-size: 18px;
+}
+
+.cil15 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil15:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil16 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 809px;
+  left: 119px;
+  font-size: 18px;
+}
+
+.cil16 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil16:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+.cil17 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 809px;
+  left: 219px;
+  font-size: 18px;
+}
+
+.cil17 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil17:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+
+.cil18 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 809px;
+  left: 319px;
+  font-size: 18px;
+}
+
+.cil18 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil18:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+
+.cil19 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 809px;
+  left: 419px;
+  font-size: 18px;
+}
+
+.cil19 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil19:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+
+.cil20 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 809px;
+  left: 519px;
+  font-size: 18px;
+}
+
+.cil20 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil20:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+
+.cil21 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 809px;
+  left: 619px;
+  font-size: 18px;
+}
+
+.cil21 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil21:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+
+.cil22 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 909px;
+  left: 19px;
+  font-size: 18px;
+}
+
+.cil22 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil22:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
+
+
+.cil23 {
+  background-color: #EEEEEE;
+  padding: 8px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  position: absolute;
+  top: 909px;
+  left: 119px;
+  font-size: 18px;
+}
+
+.cil23 {
+  background-color: #FF0040;
+  color: #FFFFFF;
+}
+
+.cil23:hover {
+  background-color: #EB003B;
+  color: #42445A;
+}
